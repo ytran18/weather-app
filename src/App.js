@@ -9,7 +9,7 @@ function App() {
   const [long, setLong] = useState('')
   const [data, setData] = useState({})
 
-  const url =`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&appid=08dc4ea01a751cf0faeb809872ef1c0b`
+  const url =`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&appid=63029bad0d8c5f8f3cafa5f0c757d7a2`
 
   useEffect(() => {
     navigator.geolocation.getCurrentPosition(function(position)
