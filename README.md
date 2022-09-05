@@ -12,7 +12,9 @@ Weather App built with React! <a href="https://clinquant-peony-8b5fc6.netlify.ap
     <li>Weather forecast for any country</li>
     <li>Weather forecast for the next 2 days</li>
   </ul>
+  
 # Getting started
+
   First you need an API key, you can find it in https://rapidapi.com/hub , you can get one by creating an account on their website
   
   
