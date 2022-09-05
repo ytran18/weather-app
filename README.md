@@ -15,9 +15,12 @@ Weather App built with React! <a href="https://clinquant-peony-8b5fc6.netlify.ap
 # Getting started
   First you need an API key, you can find it in https://rapidapi.com/hub , you can get one by creating an account on their website
   
+  
   Finally clone this repository, install dependencies and run the local server
   
-  <code>git clone https://github.com/royscofield/weather-app.git</code>
+  ```
+  git clone https://github.com/royscofield/weather-app.git
+  ```
   
  # Credit
   <a href="https://rapidapi.com/hub">RapidAPI</a>
