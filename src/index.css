@@ -41,6 +41,18 @@ code {
   z-index: -1;
 }
 
+.container
+{
+  max-width: 900px;
+  height: 600px;
+  margin: auto;
+  padding: 0 1rem;
+  justify-content: space-between;
+  display: flex;
+  top: 10%;
+  position: relative;
+  flex-direction: column;
+}
 
 
 .app .top 
@@ -62,15 +74,19 @@ code {
   background-color: rgba(255,255,255, 0.2);
 }
 
-.container
+.app .future
 {
-  max-width: 700px;
-  height: 600px;
-  margin: auto;
-  padding: 0 1rem;
-  justify-content: space-between;
   display: flex;
-  top: 10%;
-  position: relative;
-  flex-direction: column;
+  justify-content: space-evenly;
+  width: 100%;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 12px;
+  background-color: rgba(255,255,255, 0.2);
 }
+
+.info
+{
+  color: rgb(17, 226, 149);
+}
+
