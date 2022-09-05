@@ -1,8 +1,7 @@
-# Getting Started with Create React App
+# REACT WEATHER APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Uploading Screen Shot 2022-09-05 at 19.46.45.png…]()
 
-## Available Scripts
 
 In the project directory, you can run:
 
